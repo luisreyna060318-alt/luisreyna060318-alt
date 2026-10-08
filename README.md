@@ -34,5 +34,6 @@
 
 ![Programming quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
+![3D contribution graph](./profile-3d-contrib/profile-night-view.svg)
 
 <sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/luisreyna060318-alt) — one-click GitHub README cards.</sub>
