@@ -21,7 +21,6 @@
 
 ![Contribution streak](https://streak-stats.demolab.com?user=luisreyna060318-alt&theme=transparent&hide_border=true)
 
-![Capsule header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=luisreyna060318-alt&fontSize=52&animation=fadeIn&fontAlignY=36)
 
 ### More
 
