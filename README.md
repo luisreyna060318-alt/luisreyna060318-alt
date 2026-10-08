@@ -1,7 +1,5 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=luisreyna060318-alt&title=luisreyna060318-alt&subtitle=Building%20things%20on%20the%20internet&theme=dark"><img alt="luisreyna060318-alt hero" src="https://coolreadme.xyz/api/hero-banner?user=luisreyna060318-alt&title=luisreyna060318-alt&subtitle=Building%20things%20on%20the%20internet&theme=light"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=luisreyna060318-alt&lines=Building%20things%20on%20the%20internet%7Cgithub.com%2Fluisreyna060318-alt&theme=dark"><img alt="typing intro" src="https://coolreadme.xyz/api/typing-card?user=luisreyna060318-alt&lines=Building%20things%20on%20the%20internet%7Cgithub.com%2Fluisreyna060318-alt&theme=light"></picture>
-
 ### Featured projects
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/projects-gallery?user=luisreyna060318-alt&repos=My_Game%2CSimple-Hand-Tracking&copy=%7B%22My_Game%22%3A%22%22%2C%22Simple-Hand-Tracking%22%3A%22%22%7D&layout=spotlight&theme=dark"><img alt="Featured projects" src="https://coolreadme.xyz/api/projects-gallery?user=luisreyna060318-alt&repos=My_Game%2CSimple-Hand-Tracking&copy=%7B%22My_Game%22%3A%22%22%2C%22Simple-Hand-Tracking%22%3A%22%22%7D&layout=spotlight&theme=light"></picture>
@@ -10,9 +8,6 @@
 
 ![penguin streak](https://coolreadme.xyz/api/penguin-card?user=luisreyna060318-alt)
 
-### Currently
-
-![now listening](https://coolreadme.xyz/api/now-listening?song=Add%20your%20Spotify&artist=luisreyna060318-alt&album=placeholder&style=spotify)
 
 ### Workflow
 
@@ -35,5 +30,10 @@
 ![Programming quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 ![3D contribution graph](./profile-3d-contrib/profile-night-view.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisreyna060318-alt/luisreyna060318-alt/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/luisreyna060318-alt/luisreyna060318-alt/output/github-contribution-grid-snake.svg">
+</picture>
 
 <sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/luisreyna060318-alt) — one-click GitHub README cards.</sub>
